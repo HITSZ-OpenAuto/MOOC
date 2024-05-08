@@ -4,4 +4,6 @@
 
 **注：资料均来自前人收集整理，不能保证答案100%正确**
 
-刷课脚本推荐：[Autovisor](https://github.com/CXRunfree/Autovisor)
+刷课脚本推荐：
+- [智慧树](https://github.com/CXRunfree/Autovisor)
+- [雨课堂](https://github.com/Niuwh/yuketang-jiaoben)

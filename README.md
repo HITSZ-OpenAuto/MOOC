@@ -4,5 +4,4 @@
 
 **注：资料均来自前人收集整理，不能保证答案100%正确**
 
-<p align="right"><strong>update time</strong></p>
-<p align="right"><strong>2023.12</strong></p>
+刷课脚本推荐：[Autovisor](https://github.com/CXRunfree/Autovisor)

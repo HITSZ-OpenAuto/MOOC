@@ -1,4 +1,4 @@
-# MOOC - 文理通识与MOOC
+# 文理通识 - MOOC
 
 本文件夹下目录采用答案+README.md的形式, README.md则是描述该门课程的相关说明
 

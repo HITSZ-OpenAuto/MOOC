@@ -51,4 +51,5 @@ MOOC 事实上是「文理通识」课程中一类线上课的统称， *与其�
 > 
 > 不过，根据 [lmh学长](https://github.com/lmh12138)的描述，挂 MOOC 目前暂不会影响**保研资格**。
 
-> 文 / [IcyDesert](https://github.com/IcyDesert) 2024.5 
+> 文 / [IcyDesert](https://github.com/IcyDesert) 2024.5
+

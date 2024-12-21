@@ -38,6 +38,8 @@ MOOC 事实上是「文理通识」课程中一类线上课的统称， *与其�
 
 ### 上课和测试（平时测试、期末）
 
+刷课脚本汇总仓库：[longlin/awesome-mooc-script](https://github.com/longlin10086/awesome-mooc-script)
+
 刷课脚本推荐：
 
 - [智慧树](https://github.com/CXRunfree/Autovisor)

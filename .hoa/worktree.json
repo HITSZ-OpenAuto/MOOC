@@ -1,8 +1,13 @@
 {
   ".github/workflows/trigger-workflow.yml": {
-    "size": 2658,
-    "time": 1751724641,
-    "hash": "0a942f84699b69378ef5f2442dfd045c6609e239"
+    "size": 2109,
+    "time": 1751726353,
+    "hash": "2c13cd0780328b41ed3d505784e93c847bf26e66"
+  },
+  ".hoa/worktree.json": {
+    "size": 4138,
+    "time": 1751724649,
+    "hash": "59e5eabdf52e7a7034ff6cf9c7490670c6a2a2b2"
   },
   "LICENSE": {
     "size": 20844,

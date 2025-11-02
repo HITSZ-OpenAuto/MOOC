@@ -1,4 +1,4 @@
-javascript:(function(){
+(function(){
   // 获取当前视频信息
   const videoElement = document.getElementById('video-active');
   if (!videoElement) {

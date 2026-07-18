@@ -1,3 +1,0 @@
-category: 文理通识
-semester: 第一学年秋季
-name: MOOC
